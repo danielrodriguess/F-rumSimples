@@ -1,0 +1,539 @@
+﻿body{
+	margin: 0;
+	padding: 0;
+	outline: none;
+	font-family: "Calibri";
+	font-size: 18pt;
+	width:100%;
+}
+
+.txt{
+	height: 30px;
+	width: 350px;
+	border: none;
+	border-radius: 5px;
+	background-color: #EEE;
+}
+
+.txt:hover{
+	background-color: #CCC;
+}
+.tre:hover{
+	background-color: #CCC;
+}
+
+#cad_table{
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+}
+
+#cad{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+}
+
+#cad:hover{
+	background-color: #CCC;
+}
+
+#can{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+}
+
+#login{
+	margin: 0 auto;
+	padding: 10px;
+	border: none;
+}
+
+.tre{
+	height: 30px;
+	width: 350px;
+	border: none;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #EEE;
+}
+
+.re{
+	font-weight: bold;
+	padding: 10px;
+	float: left;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	color: #FFFFFF;
+	margin-left: 20px;
+}
+
+.re:hover{
+	color: #330000;
+	background-color: #FFFFFF;
+	/*CSS 3*/
+	border-radius: 10px 0px 10px 0px;
+}
+
+#cad1{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:380%;
+	margin-top:-215px;
+}
+
+#cad1:hover{
+	background-color: #CCC;
+}
+
+.campo{
+	margin-left:87%;
+	margin-top:-140px;
+	font-size:18px;
+	color:red;
+}
+
+.campo1{
+	margin-left:50.5%;
+	margin-top:-55px;
+	font-size:18px;
+}
+
+.campo2{
+	margin-left:55%;
+	margin-top:-55px;
+	font-size:18px;
+}
+
+.campo3{
+	margin-left:81%;
+	margin-top:-135px;
+	font-size:18px;
+	color:red;
+}
+
+.campo4{
+	margin-left:166%;
+	margin-top:-780px;
+	font-size:18px;
+	color:green;
+}
+
+.campo5{
+	margin-left:83.6%;
+	margin-top:-150px;
+	font-size:18px;
+	color:red;
+}
+
+#atu{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:22%;
+}
+#del{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:-103%;
+}
+
+
+#atu:hover{
+	background-color: #CCC;
+}
+
+#del:hover{
+	background-color: #CCC;
+}
+
+#bus{
+	width: 100px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:10%;
+}
+
+#bus:hover{
+	background-color: #CCC;
+}
+
+.txt5{
+	height: 30px;
+	width: 350px;
+	border: none;
+	border-radius: 5px;
+	background-color: #EEE;
+	margin-left: 510px;
+	margin-top:-135px;
+}
+
+.txt5:hover{
+	background-color: #CCC;
+}
+
+#cadalterar{
+	width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:-360%;
+	margin-top:1px;
+}
+
+#cadalterar:hover{
+	background-color: #CCC;
+}
+
+
+#caddel{
+	width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:-330%;
+	margin-top:1px;
+}
+
+#caddel:hover{
+	background-color: #CCC;
+}
+
+#cadalterar1{
+	width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:60%;
+	margin-top:-453px;
+}
+
+#cadalterar1:hover{
+	background-color: #CCC;
+}
+
+#cadsenha{
+	width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:-297%;
+	margin-top:0px;
+}
+
+#cadsenha:hover{
+	background-color: #CCC;
+}
+
+#post{
+	width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:53.6%;
+	margin-top:20px;
+}
+
+#post:hover{
+	background-color: #CCC;
+	border-radius: 8px;
+}
+
+#coment{
+	width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:-67%;
+	margin-top:0px;
+}
+
+#coment:hover{
+	background-color: #CCC;
+}
+
+#campocom{
+	margin-left:-130%;
+}
+
+#coment1{
+	width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:-130%;
+	margin-top:20px;
+}
+
+#coment1:hover{
+	background-color: #CCC;
+}
+
+
+#cadge{
+	width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:-5%;
+	margin-top:-70px;
+}
+
+#cadge:hover{
+	background-color: #CCC;
+}
+
+#coment3{
+	width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:10%;
+	margin-top:-70px;
+}
+
+#coment3:hover{
+	background-color: #CCC;
+}
+
+#cad_table1{
+	border: solid 5px gray;
+	width:400px;
+	border-radius:3px;
+}
+
+.titulo{
+	font-size:18px;
+	margin-left:37%;
+}
+
+#cad_tablecom{
+	margin-left:0%;
+	border: solid 5px gray;
+	width:1366px;
+}
+
+#cad_tablemoderador{
+	border: solid 5px white;
+	width:1366px;
+}
+
+#dados{
+	margin-top:-60px;
+	margin-left:55%;
+	color:red;
+}
+
+.fundos{
+	background-color:#FAEBD7;
+}
+
+.textoarea{
+	border-radius: 15px;
+}
+
+.textoarea:hover{
+	background-color:#CCC;
+}
+
+#listarcomentar{
+	margin-left:26.3%;
+	margin-top:-18px;
+}
+
+
+#listarcomentar1{
+	width: 130px;
+	height: 30px;
+	margin-left:70%;
+	margin-top:-88px;
+}
+
+.comentarios{
+	background-color:#E1E1E1;
+	border: 1px solid #CCC;
+}
+
+.comentarios1{
+	background-color:#E1E1E1;
+	width:500px;
+	border: solid 5px white;
+}
+
+.img5{
+	background-color:#CCC;
+	border: solid 5px gray;
+}
+
+.img5:hover{
+	border: solid 5px #CCC;
+}
+
+.pergunta{
+	background-color:#CCC;
+}
+
+.txt1{
+	height: 30px;
+	width: 350px;
+	border: none;
+	border-radius: 5px;
+	background-color: #CCC;
+	color:white;
+}
+
+.ordenacao{
+	margin-top:150px;
+}
+
+.imgsuges{
+	border: solid 5px #CCC;
+}
+
+.a{
+	margin-left:73%;
+	margin-top:-100px;
+}
+
+.imgmensagem{
+	margin-left:41%;
+	margin-top:-108px;
+}
+
+.aa{
+	margin-left:73%;
+	margin-top:-80px;
+	background-color:#E1E1E1;
+}
+
+.admin{
+	margin-top:-310px;
+}
+
+.enviada{
+	margin-top:300px;
+}
+
+.aceitar:hover{
+	color:green;
+}
+
+#cadalterar3{
+
+	width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:-360%;
+	margin-top:1px;
+	margin-left:145%;
+	margin-top:-118px;
+}
+
+#cadalterar3:hover{
+	background-color: #CCC;
+}
+
+.campo6{
+	margin-left:85.4%;
+	margin-top:-148px;
+}
+
+#cad_tablecomentario{
+	width:500px;
+	border: solid 5px white;
+}
+
+.todos{
+	background-color:#E1E1E1;
+}
+
+.todos1{
+	background-color:#FFE4B5;
+}
+
+.alinhanome{
+	margin-left:-45%;
+	margin-top:-18px;
+}
+
+#cadalterar6{
+width: 130px;
+	height: 30px;
+	background-color: #EFEFEF;
+	border-radius: 4px;
+	border: 1px solid #CCC;
+	margin-left:25%;
+	margin-top:-125px;
+}
+
+#cadalterar6:hover{
+	background-color: #CCC;
+}
+
+.digite{
+	margin-left:37%;
+	margin-top:-72%;
+}
+
+.digite1{
+	margin-top:-76%;
+	margin-left:37%;
+}
+
+.fundos1{
+	background-color:#FAEBD7;
+}
+
+.fundos2{
+	background-color:#FAEBD7;
+}
+
+#listarcomentar2{
+	width: 130px;
+	height: 30px;
+	margin-left:85%;
+	margin-top:-80px;
+}
+
+#coment4{
+	background-color:#CCC;
+}
+
+.aceitar2{
+	background-color:#E1E1E1;
+	width: 400px;
+	border-radius: 4px;
+}
